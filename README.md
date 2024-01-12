@@ -1,7 +1,7 @@
 # Object-Oriented Programming in Java
 The work aimed to address basic concepts of the paradigm.
 
-#Proposed Problem
+### Proposed Problem
 Escreva um programa para gerenciar a distribuição de prisioneiros em presídios.
 Os presídios disponíveis são Bangu e Papuda.
 O presídio de Bangu não aceita assassinos.
